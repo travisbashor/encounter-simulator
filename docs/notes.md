@@ -1,0 +1,3 @@
+# Notes
+## Description
+A scratch pad for any notes about features, implementation, etc...
